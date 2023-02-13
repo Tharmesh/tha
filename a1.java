@@ -5,6 +5,8 @@ class a1 {
         printf("gokul...");
         int a = 6;
         int b = 6;
+        c = a + b;
+        printf(c);
         if (a == b)
             printf("sucess..");
         System.out.println("gokul...");
