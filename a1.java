@@ -1,5 +1,6 @@
 class a1 {
     public static void main(String[] args) {
-        printf("first");
+        for (int i = 0; i < 3; i++)
+            printf("first");
     }
 }
