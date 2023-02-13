@@ -7,5 +7,6 @@ class a1 {
         int b = 6;
         if (a == b)
             printf("sucess..");
+        System.out.println("gokul...");
     }
 }
