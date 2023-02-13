@@ -5,8 +5,9 @@ class a1 {
         printf("gokul...");
         int a = 6;
         int b = 6;
-        if (a == b)
+        if (a == a+b)
             printf("sucess..");
         System.out.println("gokul...");
+        System.out.println("end........");
     }
 }
